@@ -1,7 +1,8 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/viniFiedler/viniFiedler/master/resources/banner.png" alt="Hello world">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/viniFiedler/viniFiedler/master/resources/banner.png" alt="Hello world"></p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/viniFiedler/count.svg" />
