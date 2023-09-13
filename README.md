@@ -1,13 +1,5 @@
 # Hey there :wave:
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/viniFiedler/viniFiedler/master/resources/banner.png" alt="Hello world"></p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/viniFiedler/count.svg" />
-</p>
-
 ## About me
 
 I'm Vinicius Fiedler. A student at Universidade Estadual de São Paulo (UNESP). I really enjoy Data Science and Computer Vision.
