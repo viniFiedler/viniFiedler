@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Vinicius Fiedler. A student at Universidade Estadual de São Paulo (UNESP). I really enjoy Data Science and Computer Vision.
+I'm Vinicius Fiedler. A student at Universidade Estadual de São Paulo (UNESP).
 
 
 ## Things I am passionate about
