@@ -10,6 +10,7 @@ I'm Vinicius Fiedler. A student at Universidade Estadual de São Paulo (UNESP).
 - Computer Vision :eye_speech_bubble:	
 - Data Science :1234:
 - Competitive Programming :trophy:
+- Artificial Intelligence :brain:
 
 ## Get in touch 
 
