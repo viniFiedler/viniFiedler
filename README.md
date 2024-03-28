@@ -11,6 +11,7 @@ I'm Vinicius Fiedler. A student at Universidade Estadual de São Paulo (UNESP).
 - Data Science :1234:
 - Competitive Programming :trophy:
 - Artificial Intelligence :brain:
+- Computers S2
 
 ## Get in touch 
 
