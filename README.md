@@ -18,6 +18,6 @@ I'm Vinicius Fiedler. A student at Universidade Estadual de São Paulo (UNESP).
 - If you want to see me complaining [Twitter](https://twitter.com/viniFiedler).
 - If you want to hire me [LinkedIn](https://www.linkedin.com/in/vinicius-fiedler/)
 - If you want to see my [Kaggle](https://www.kaggle.com/viniciusfiedler)
-- If you want to see my posts[Medium](https://medium.com/@viniFiedler)
+- If you want to see my posts [Medium](https://medium.com/@viniFiedler)
 - And of course GitHub you're already on (Recursion).
 
